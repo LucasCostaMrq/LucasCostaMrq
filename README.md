@@ -6,4 +6,3 @@
 
 
 [![Lucas Costa's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasCostaMrq&hide=issues&icons=true&theme=tokyonight)](https://github.com/LucasCostaMrq/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCostaMrq&layout=compact&theme=tokyonight)](https://github.com/LucasCostaMrq/github-readme-stats)
