@@ -1,6 +1,6 @@
 ### Olá! Eu sou Lucas Costa Marques
 
-- 🔭 Estou estudando no Instituto Federal de Ciências e Tecnologia do Ceará
+- 🔭 Estudo no Instituto Federal de Ciências e Tecnologia do Ceará
 - 🌱 Aprendendo Desenvolvimento Web e Desenvolvimento de Apps
 - ⚡ Apaixonado por esportes
 - 📫 Contato: https://www.instagram.com/_lucazcm/
