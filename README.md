@@ -3,7 +3,7 @@
 
   <h3>
     - 🔭 Estudo no Instituto Federal de Ciências e Tecnologia do Ceará <br> 
-    - 🌱 Aprendendo desenvolvimento Java<br>
+    - 🌱 Aprendendo desenvolvimento Mobile<br>
   </h3>
 </div>
 <div align="center">
